@@ -30,6 +30,7 @@
 		8FD320F7264320B3000BCBF8 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD320F6264320B2000BCBF8 /* LandmarkRow.swift */; };
 		8FD320F92643225F000BCBF8 /* SwiftUI_PracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD320F82643225F000BCBF8 /* SwiftUI_PracticeApp.swift */; };
 		8FD320FB26432360000BCBF8 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD320FA26432360000BCBF8 /* LandmarkList.swift */; };
+		8FD320FD26432462000BCBF8 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD320FC26432462000BCBF8 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		8FD320F6264320B2000BCBF8 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		8FD320F82643225F000BCBF8 /* SwiftUI_PracticeApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUI_PracticeApp.swift; sourceTree = "<group>"; };
 		8FD320FA26432360000BCBF8 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		8FD320FC26432462000BCBF8 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				8FD320C2264315A2000BCBF8 /* ContentView.swift */,
+				8FD320FC26432462000BCBF8 /* LandmarkDetail.swift */,
 				8FD320CF26431A14000BCBF8 /* CircleImage.swift */,
 				8FD320D126431AB9000BCBF8 /* MapView.swift */,
 			);
@@ -252,6 +255,7 @@
 				8FD320D226431AB9000BCBF8 /* MapView.swift in Sources */,
 				8FD320D026431A14000BCBF8 /* CircleImage.swift in Sources */,
 				8FD320FB26432360000BCBF8 /* LandmarkList.swift in Sources */,
+				8FD320FD26432462000BCBF8 /* LandmarkDetail.swift in Sources */,
 				8FD320F126431D6E000BCBF8 /* Landmark.swift in Sources */,
 				8FD320F7264320B3000BCBF8 /* LandmarkRow.swift in Sources */,
 				8FD320F92643225F000BCBF8 /* SwiftUI_PracticeApp.swift in Sources */,
